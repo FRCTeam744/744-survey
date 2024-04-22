@@ -1,4 +1,6 @@
 # 744 Survey App
+*This is a semi?-temporary measure to allow students to contribute through the organization if they wish, as Vercel apps can only be connected to personal accounts. To see full list of GH Issues, see the upstream repository.*
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 A  web application made to streamline both survey types used during competitions.
@@ -22,7 +24,7 @@ A  web application made to streamline both survey types used during competitions
 - notification of Team 744's match results
 
 ## Changelog
-For changelog, click [here](https://github.com/arifire21/744-survey/blob/trunk/changelog.md).
+For changelog, click [here](https://github.com/arifire21/FRCTeam744/blob/trunk/changelog.md).
 
 ## Recordkeeping
 ### Branches
